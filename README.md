@@ -28,5 +28,7 @@ Each department/faculty is expected to be on its own separate IP network. The sw
 10. Test and Verifying Network Communication.
 ## Network Topology Created
 
+![CiscoVarsity](https://user-images.githubusercontent.com/69791359/233852523-722c35d8-af1a-49a8-85df-1b2d1be8ea55.png)
+
 
 
